@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://skippo-jnr.github.io/coffee/)
+- Live Site URL: [coffee ☕](https://skippo-jnr.github.io/coffee/)
 
 ## My process
 
